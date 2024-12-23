@@ -21,9 +21,9 @@ Frontend technology used is NextJs.. you may view their docs here :- https://nex
 
    ```
 
-4. Start the development server:
+4. Start the development server for both   both frontend - backend:
    ```bash
-   npm run dev // both frontend - backend
+   npm run dev
    ```
 
 5. Open your browser and navigate to `http://localhost:3000`.
