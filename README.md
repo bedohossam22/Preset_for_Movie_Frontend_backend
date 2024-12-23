@@ -1,5 +1,6 @@
 This is a Fullstack Movies RESTAPI Project Connected with MongoDB database using MERN technologies with an admin Dashboard
 Frontend technology used is NextJs.. you may view their docs here :- https://nextjs.org/docs
+Still working on making the Dashboard Responsive. (Non-Responsive Dashboard)
 
 ## Installation
 
